@@ -1,14 +1,8 @@
 ### Best Smart Voice Chat Music Bot For Telegram Groups ...
 
 
-<p align="center"><a href="https://t.me/adityahalder"><img src="https://te.legra.ph/file/c6e1041c6c9a12913f57a.png"></a></p>
+<p align="center"><a href="https://t.me/KAAL_KI_QUEEN"><img src="https://te.legra.ph/file/16f9d4dde576ded7cea3a.jpg"></a></p>
 
-
-
-
-### Deploy To Railway
-
-[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/SHIYA-XD/MUSIC&envs=API_ID,API_HASH,BOT_TOKEN,STRING_SESSION)
 
 
 ### Deploy To Heroku
@@ -22,7 +16,3 @@
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@AdityaHalder/StringSession)
 
 
-
-### Copy Pasters You Can Copy This But Must Give Credits ...
-
-#### Main Developer = [Aditya](https://t.me/AdityaHalder)
