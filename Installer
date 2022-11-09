@@ -4,8 +4,8 @@ asyncio
 dnspython
 ffmpeg-python
 future
-git+https://github.com/pyrogram/pyrogram@master
-git+https://github.com/MrAdityaXD/yt-dl@master
+yt-dlp
+pyrogram==1.4.16
 motor
 pillow
 psutil
