@@ -89,7 +89,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: SHIYA (@KAAL_KI_QUEEN)",
+        f"Powered By: ꜰɪɢʜᴛᴇʀ (@Fighter_121)",
         (255, 255, 255),
         font=font,
     )
@@ -141,12 +141,12 @@ async def play(_, message: Message):
                     pass
                 except Exception:
                     await lel.edit(
-                        f"**🎸 ᴋᴜᴛᴛᴇ,ʜᴀʀᴀᴍɪ 🤣 ᴀssɪᴛᴀɴᴛ 💫 ᴀᴅᴅ ᴋʀ ᴋʜᴜᴅ 🤣🤣 ɴᴀʜɪ ᴀᴀᴛᴀ ᴛᴏ ᴅᴍ ᴋʀ ❤️Oᴡɴᴇʀ : @Kaal_ki_queen 🥀** ")
+                        f"**🎸 ᴋᴜᴛᴛᴇ,ʜᴀʀᴀᴍɪ 🤣 ᴀssɪᴛᴀɴᴛ 💫 ᴀᴅᴅ ᴋʀ ᴋʜᴜᴅ 🤣🤣 ɴᴀʜɪ ᴀᴀᴛᴀ ᴛᴏ ᴅᴍ ᴋʀ ❤️Oᴡɴᴇʀ : @yaduvanshi_branded 🥀** ")
     try:
         await USER.get_chat(chid)
     except:
         await lel.edit(
-            f"**🎸 ᴋᴜᴛᴛᴇ,ʜᴀʀᴀᴍɪ 🤣 ᴀssɪᴛᴀɴᴛ 💫 ᴀᴅᴅ ᴋʀ ᴋʜᴜᴅ 🤣🤣 ɴᴀʜɪ ᴀᴀᴛᴀ ᴛᴏ ᴅᴍ ᴋʀ ❤️Oᴡɴᴇʀ : @Kaal_ki_queen 🥀...*")
+            f"**🎸 ᴋᴜᴛᴛᴇ,ʜᴀʀᴀᴍɪ 🤣 ᴀssɪᴛᴀɴᴛ 💫 ᴀᴅᴅ ᴋʀ ᴋʜᴜᴅ 🤣🤣 ɴᴀʜɪ ᴀᴀᴛᴀ ᴛᴏ ᴅᴍ ᴋʀ ❤️Oᴡɴᴇʀ : @yaduvanshi_branded 🥀...*")
         return
     
     audio = (
@@ -173,8 +173,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="😍𝗭𝗜𝗡𝗗𝗔𝗚𝗜😍",
-                            url=f"https://t.me/IAMKAAL")
+                            text="😍𝗢𝘄𝗻𝗲𝗿😍",
+                            url=f"https://t.me/yaduvanshi_branded")
 
                 ]
             ]
@@ -212,8 +212,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="😍𝗭𝗜𝗡𝗗𝗔𝗚𝗜😍",
-                            url=f"https://t.me/IAMKAAL")
+                            text="😍𝗢𝘄𝗻𝗲𝗿😍",
+                            url=f"https://t.me/yaduvanshi_branded")
 
                 ]
             ]
@@ -228,8 +228,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="😍𝗭𝗜𝗡𝗗𝗔𝗚𝗜😍",
-                            url=f"https://t.me/IAMKAAL")
+                            text="😍𝗢𝘄𝗻𝗲𝗿😍",
+                            url=f"https://t.me/yaduvanshi_branded")
 
                 ]
             ]
@@ -282,8 +282,8 @@ async def play(_, message: Message):
             [
                 [
                         InlineKeyboardButton(
-                            text="😍𝗭𝗜𝗡𝗗𝗔𝗚𝗜😍",
-                            url=f"https://t.me/IAMKAAL")
+                            text="😍𝗢𝘄𝗻𝗲𝗿😍",
+                            url=f"https://t.me/yaduvanshi_branded")
 
                 ]
             ]
@@ -417,3 +417,5 @@ async def admincache(client, message: Message):
                               photo="https://te.legra.ph/file/16f9d4dde576ded7cea3a.png",
                               caption="**💥 sʜɪᴢᴜᴋᴀ 🔈 ᴍᴜsɪᴄ🤞ɴᴏᴡ 🥀\n🔥 ʀᴇʟᴏᴀᴅᴇᴅ 🌷 ...**"
     )
+
+
